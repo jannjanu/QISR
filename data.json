@@ -1,0 +1,66 @@
+{
+  "card1":[{
+    "image":"jan.jpg",
+    "name":"janaki",
+    "profile":"profile"
+  },
+  {
+    "image":"jyo.jpg",
+    "name":"jyoshna",
+    "profile":"profile"
+  }],
+  "personalDetails":{
+    "image":"jan.jpg",
+    "myname":"Janaki",
+    "designation":"B.tech",
+    "fname":"Ramesh",
+    "gmail":"gundajanaki123@gmail.com",
+    "phone":"9703950988",
+    "address":"Narayanapuram, Dachepalli,Gunter"
+  },
+  "careerobject":{
+    "obj":"Career Object:",
+    "co":" To obtain a challenging and rewarding software engineer position where a degre in computer engineering and 3 years of experience as a programmer will be fully utilized."
+  },
+"edq":[{
+    "qualification":"B.tech",
+    "marks":"78%"
+  },
+  {
+  "qualification":"inter",
+  "marks":"94.5"
+  },
+  {
+  "qualification":"ssc",
+  "marks":"9.3"
+    }],
+"tech":[{
+      "name":"lang",
+       "org":"c,html,java"
+      },
+      {
+        "name":"tools",
+         "org":"ms.office"
+      },
+      {
+        "name":"os",
+         "org":"windows,linux"
+    }],
+"academicpro":[{
+      "qua":"B.tech",
+      "org":"Qis college of engineering and Technology,Vengamukkalapalem,Ongole"
+    },
+    {
+      "qua":"inter",
+      "org":"Sri chaithanya Jr. college,Guntur"
+    },
+    {
+      "qua":"SSC",
+      "org":"Noble E.M High School,Narayanapuram,Dachepalli(md),Guntur(dt)."
+    }],
+"hobbies":{
+  "names":"HOBBIES",
+  "hobbie":"Listening Music,Reading books,Sleeping"
+}
+
+}

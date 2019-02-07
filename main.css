@@ -1,0 +1,31 @@
+*{
+  text-transform:uppercase;
+  text-align: center;
+}
+  .card{
+ background-color: #aad;
+  width: 20%;
+  margin: auto;
+  padding: 2px 0px 2px 0px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px grey;
+}
+.cards{
+  display: flex;
+}
+img {
+  width: 100px;
+}
+@media (min-device-width:320px) and
+ (max-device-width:680px) {
+   .cards{
+     width: 98%;
+     flex-wrap:wrap;
+     margin: 1%;
+   }
+   .card{
+     width: 98%;
+     margin: 2em;
+   }
+
+}
